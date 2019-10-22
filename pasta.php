@@ -93,9 +93,10 @@ function claim($token)
 		return false;
 		}
 	}
-echo "=====================================================\n";
-echo "####### GAK ADA GUJEK YANG AMAN BY TEMPEK MKS #######\n";
-echo "=====================================================\n";
+echo "===========================================================\n";
+echo "####### GAK ADA GUJEK YANG AMAN BY SGBTEAM MAKASSAR #######\n";
+echo "############## FOLLOW LAH IG W @ABBACUGAMING ##############\n";
+echo "===========================================================\n";
 echo "[+] LU MAU LOGIN APA REGIS COK?? LOGIN = 1 & REGIS = 2: ";
 $type = trim(fgets(STDIN));
 if($type == 2){
